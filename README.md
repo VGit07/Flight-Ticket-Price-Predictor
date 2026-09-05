@@ -149,6 +149,6 @@ The project uses an already existing clean and real data from **Kaggle**
 ---
 
 ## 🌐 Live Demo
-**Link:**
+**Link:** https://ft-price-predictor.streamlit.app/
 
 ---
