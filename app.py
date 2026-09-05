@@ -31,7 +31,7 @@ airlines = {'SpiceJet':'SpiceJet', 'AirAsia':'AirAsia',
 # About the Model
 st.write("")
 st.subheader("About the Model")
-st.write("This is ML Model Web app that Predicts Price of Flight Ticket")
+st.write("This is ML Web app that predicts Price of Flight Ticket in India")
 st.write("It's useful because it helps to find any estimated price of Flight Ticket on the basis of Source City, Destination City, Airlines, Class & Duration")
 
 
