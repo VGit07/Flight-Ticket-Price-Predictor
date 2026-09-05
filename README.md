@@ -34,7 +34,7 @@ A Simple ML Web app that predicts the price of flight ticket based on source cit
 Flight-Ticket-Price-Predictor/
 │
 ├── app.py                  # Streamlit App
-├── requirement.txt         # Python dependencies
+├── requirements.txt         # Python dependencies
 │
 ├── src/
 │   └── train.py            # Model training script
@@ -66,7 +66,7 @@ cd Flight-Price-Predictor
 ### 2. Install Dependencies
 
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 ### 3. Run the Application
@@ -114,7 +114,7 @@ prettytable
 Install all dependencies with:
 
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 ---
