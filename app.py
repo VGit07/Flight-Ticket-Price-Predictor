@@ -29,6 +29,13 @@ cities = ['Mumbai', 'Bangalore', 'Kolkata', 'Hyderabad', 'Chennai', 'Delhi']
 airlines = {'SpiceJet':'SpiceJet', 'AirAsia':'AirAsia',
             'Indigo':'Indigo', 'Air India':'Air_India'}
 
+# About the Model
+st.write("")
+st.subheader("About the Model")
+st.write("This is ML Model Web app that Predicts Price of Flight Ticket")
+st.write("It's useful because it helps to find any estimated price of Flight Ticket on the basis of Source City, Destination City, Airlines, Class & Duration")
+
+
 st.write("")
 # Taking Inputs 
 
