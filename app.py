@@ -20,7 +20,7 @@ with open("model/encoder.pkl", "rb") as file:
 # -----------------------------
 
 
-st.set_page_config(page_title="Flight Ticket Price Predictor",page_icon="🛫")
+st.set_page_config(page_title="Flight Ticket Price Predictor",page_icon="✈️")
 st.title("✈️ Flight Ticket Price Predictor")
 
 
